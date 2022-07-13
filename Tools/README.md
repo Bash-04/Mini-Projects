@@ -3,3 +3,4 @@ Handy and useful tools I use, and sometimes create, myself.
 
 ### GitHub pages
 - <a href="https://bash-04.github.io/Mini-Projects/Tools/QR-code%20generator/">QR-code generator</a>
+- <a href="https://bash-04.github.io/Mini-Projects/Tools/digital-clock/">digital-clock</a>

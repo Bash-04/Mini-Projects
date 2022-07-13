@@ -1,0 +1,12 @@
+*{
+    background-color: #313131;
+    text-align: center;
+    vertical-align: middle;
+}
+#time{
+    color: white;
+    font-family: Arial;
+    font-size: 20vh;
+    margin-top: 38vh;
+    margin-bottom: 38vh;
+}
