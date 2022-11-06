@@ -1,6 +1,9 @@
 # Mini-Projects
 All my personal mini-projects in one repository
 
+## <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
+Some random games I liked to build for fun.
+
 ## <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
 "Hello, World!", the first code you type in every programming language you start with. 
 <br>
