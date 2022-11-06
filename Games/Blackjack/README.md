@@ -1,5 +1,6 @@
 # Blackjack
 Have fun playing!
+<br>
 This game is functional, not visual. 
 
 ## Download
