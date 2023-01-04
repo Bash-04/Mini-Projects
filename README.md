@@ -1,5 +1,5 @@
 # Mini-Projects
-All my personal mini-projects in one repository
+All my mini-projects in one repository
 
 ## <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
 Some random games I liked to build for fun.
